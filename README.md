@@ -1,6 +1,6 @@
 # Hi, I'm Ankita Panda 👋
 
-🎯 **Data Analyst | Power BI | SQL | Excel | Tableau | Google BigQuery**
+🎯 **Data Analyst | Power BI | Python | SQL | Excel | Tableau | Google BigQuery**
 
 📍 Patna, Bihar, India | Open to Remote Opportunities
 
@@ -10,11 +10,11 @@
 
 I'm a Mathematics postgraduate (M.Sc.) with 5+ years of teaching experience,
 now transitioning into Data Analytics. I build end-to-end analytics projects
-using Excel, SQL (Google BigQuery), and Power BI — turning raw data into
-clear, actionable insights.
+using Python (Pandas, NumPy), Excel, SQL (Google BigQuery), and Power BI —
+turning raw data into clear, actionable insights.
 
 🎓 Google Certified Data Analyst  
-📊 5 Real-World Projects Completed  
+📊 6 Real-World Projects Completed  
 ☁️ Experience with Google Cloud Platform & BigQuery  
 
 ---
@@ -23,8 +23,9 @@ clear, actionable insights.
 
 | Category | Tools |
 |---|---|
+| Programming | Python (Pandas, NumPy) |
 | Data Analysis | Excel (Pivot Tables & Charts), SQL |
-| Visualization | Power BI, Tableau |
+| Visualization | Power BI, Tableau, Matplotlib, Seaborn |
 | Database | Google BigQuery, Google Cloud Platform |
 | Skills | KPI Reporting, Dashboard Development, Statistical Analysis |
 
@@ -34,6 +35,7 @@ clear, actionable insights.
 
 | Project | Tools | Domain |
 |---|---|---|
+| [🎓 School Funding vs. Academic Outcomes](https://github.com/ankitapanda-maker/school-funding-value-added-analysis) | Python · Pandas · NumPy | Education |
 | [🏥 Hospital Patient Analysis](https://github.com/ankitapanda-maker/hospital-patient-analysis) | BigQuery · SQL · Power BI | Healthcare |
 | [🛒 FNP Sales Analysis](https://github.com/ankitapanda-maker/fnp-sales-analysis) | Excel · Pivot Tables | E-Commerce |
 | [🟢 Blinkit Sales Dashboard](https://github.com/ankitapanda-maker/blinkit-sales-analysis) | Excel · Power BI | Retail |
